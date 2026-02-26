@@ -11,4 +11,6 @@ This containt is managed by Hiroki Tanioka (taniokah[at]gmail.com), since 2025.
 
 ## Licence
 
+This system imposes no particular restrictions on non-commercial use.
+
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
