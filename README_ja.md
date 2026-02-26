@@ -11,4 +11,6 @@
 
 ## Licence
 
+本システムは、非営利の利用に際して特段の制約はありません。
+
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
