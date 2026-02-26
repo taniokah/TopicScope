@@ -1,13 +1,7 @@
 # TopicScope
-An Interactive Framework for Large-Document Summarization
+An Interactive Framework for Large-Document Summarization: 
 
-- [Demo](TopicScope.ipynb)
-
-## Repositories
-
-Currently, the following information is available:
-
-- [TopicScope](TopicScope.md)
+- [TopicScope Demo](TopicScope.ipynb) on Google Colaboratory
 
 ## Acknowledgments
 
