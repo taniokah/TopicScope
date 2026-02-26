@@ -1,13 +1,7 @@
 # トピックスコープ
 大規模文書要約のためのインタラクティブフレームワーク
 
-- [Demo](TopicScope.ipynb)
-
-## リポジトリ一覧
-
-現在、以下の情報を公開しています：
-
-- [トピックスコープ](TopicScope.md)
+- [トピックスコープ デモ](TopicScope.ipynb) on Google Colaboratory
 
 ## 謝辞
 
