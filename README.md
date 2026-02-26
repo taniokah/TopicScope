@@ -1,7 +1,7 @@
 # TopicScope
 An Interactive Framework for Large-Document Summarization
 
-[Demo](TopicScope.ipynb)
+- [Demo](TopicScope.ipynb)
 
 ## Repositories
 
