@@ -1,7 +1,7 @@
 # トピックスコープ
 大規模文書要約のためのインタラクティブフレームワーク: 
 
-- [トピックスコープ デモ](TopicScope.ipynb) on Google Colaboratory
+- [トピックスコープ デモ](https://github.com/taniokah/TopicScope/blob/main/TopicScope.ipynb) on Google Colaboratory
 
 ## 謝辞
 
