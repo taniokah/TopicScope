@@ -1,7 +1,7 @@
 # TopicScope
 An Interactive Framework for Large-Document Summarization: 
 
-- [TopicScope Demo]([TopicScope.ipynb](https://github.com/taniokah/TopicScope/blob/main/TopicScope.ipynb)) on Google Colaboratory
+- [TopicScope Demo](https://github.com/taniokah/TopicScope/blob/main/TopicScope.ipynb) on Google Colaboratory
 
 ## Acknowledgments
 
